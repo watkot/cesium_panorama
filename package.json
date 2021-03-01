@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/watkot/cesium_panorama#readme",
   "dependencies": {
-    "three": "^0.109.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.4",
